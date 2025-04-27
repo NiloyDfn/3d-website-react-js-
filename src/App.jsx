@@ -138,7 +138,7 @@ const App = () => {
       {isLoading && (
         <div className="loading-overlay">
           <div className="loading-spinner"></div>
-          <p>Loading 3D experience...</p>
+          <p>Loading...</p>
         </div>
       )}
 
